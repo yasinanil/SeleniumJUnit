@@ -48,7 +48,7 @@ public class C27_Screenshot extends TestBase {
 
         driver.get("https://talentifylab.com");
 
-        takeFullPageScreenshotTest();
+        takeFullPageScreenshot();
 
         WebElement image = driver.findElement(By.xpath("(//img[@alt='Hero Background People'])[1]"));
 

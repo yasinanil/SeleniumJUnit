@@ -1,0 +1,9 @@
+<configuration>
+    <theme>light</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>https</protocol>
+    <timelineEnabled>true</timelineEnabled>
+    <documentTitle>Automation Test Report</documentTitle>
+    <reportName>My Project Test Report</reportName>
+    <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+</configuration>
