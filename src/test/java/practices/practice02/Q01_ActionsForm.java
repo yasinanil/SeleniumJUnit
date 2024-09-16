@@ -26,10 +26,10 @@ public class Q01_ActionsForm extends TestBase {
     6.	Switch to the embedded form frame and click the "Submit" button.
     7.	Switch to the newly opened window.
     8.	Perform the following actions in sequence:
-    o	Drag the element with id drag1 to the drop target drop1.
-    o	Right-click on the element with id showSuccessButton.
-    o	Double-click the button with id doubleClickButton.
-    o	Hover over the button with id hoverButton.
+        o	Drag the element with id drag1 to the drop target drop1.
+        o	Right-click on the element with id showSuccessButton.
+        o	Double-click the button with id doubleClickButton.
+        o	Hover over the button with id hoverButton.
     9.	Verify that the success message with id info is displayed.
 */
 
