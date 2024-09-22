@@ -1,0 +1,8 @@
+2024-09-22 14:43:21 INFO  C33_Log4jTest:17 - Going to homepage
+2024-09-22 14:43:22 INFO  C33_Log4jTest:25 - Username entered as Marybeth Heller
+2024-09-22 14:43:22 INFO  C33_Log4jTest:31 - Password entered as ystfquubc
+2024-09-22 14:43:22 INFO  C33_Log4jTest:39 - Comment entered as Id sed vel sint tempore sunt velit quia. Eos asperiores consectetur provident error. Veniam iste odio perspiciatis dolores. Ducimus non deserunt labore alias sed ad. Doloribus quo mollitia consequatur libero consequatur quas.
+2024-09-22 19:52:06 INFO  C32_Log4j:17 - This is info level log
+2024-09-22 19:52:06 WARN  C32_Log4j:18 - This is warn level log
+2024-09-22 19:52:06 ERROR C32_Log4j:19 - This is error level log
+2024-09-22 19:52:06 FATAL C32_Log4j:20 - This is fatal level log

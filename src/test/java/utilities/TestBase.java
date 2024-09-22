@@ -77,7 +77,7 @@ public class TestBase {
 
     }
 
-    public String passAndTakeScreenshot(String message) {
+    public void passAndTakeScreenshot(String message) {
 
         File ss = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
@@ -94,8 +94,6 @@ public class TestBase {
         }
 
         test.pass(message).addScreenCaptureFromPath(path);
-
-        return path;
 
     }
 
