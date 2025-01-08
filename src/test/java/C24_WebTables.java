@@ -10,7 +10,7 @@ public class C24_WebTables extends TestBase {
     @Test
     public void webTablesTest(){
 
-        driver.get("https://yasinanil67.github.io/webTable");
+        driver.get("https://yasinanil.github.io/webTable");
 
         WebElement webTable = driver.findElement(By.xpath("(//table)[2]"));
 
